@@ -1,0 +1,503 @@
+Chest:
+1. Barbell Bench Press
+- Lie on bench, grip bar slightly wider than shoulder-width.
+- Lower bar to chest with control.
+- Press bar up until arms are straight.
+
+2. Dumbbell Bench Press
+- Lie on bench holding dumbbells at chest level.
+- Lower weights until elbows are at 90 degrees.
+- Press up to extend arms fully.
+
+3. Incline Bench Press
+- Lie on incline bench with barbell or dumbbells.
+- Lower weight to upper chest.
+- Press upward until arms are extended.
+
+4. Decline Bench Press
+- Lie on decline bench with barbell.
+- Lower bar to lower chest.
+- Press bar up until arms are locked.
+
+5. Push-Up
+- Start in plank with hands under shoulders.
+- Lower body until chest nearly touches ground.
+- Push up to starting position.
+
+6. Dumbbell Fly
+- Lie on flat bench with dumbbells over chest.
+- Open arms wide with slight bend in elbows.
+- Bring dumbbells back together at top.
+
+7. Incline Dumbbell Fly
+- Lie on incline bench with dumbbells.
+- Open arms wide, then bring them back up.
+- Keep motion controlled and smooth.
+
+8. Cable Crossover
+- Stand in cable machine with arms extended.
+- Pull handles together in front of chest.
+- Slowly return to starting position.
+
+9. Pec Deck Machine
+- Sit with arms on pads, elbows bent.
+- Bring pads together in front of chest.
+- Return to start with control.
+
+10. Chest Dip
+- Grip parallel bars and lean slightly forward.
+- Lower until shoulders are below elbows.
+- Push back up through chest.
+
+11. Svend Press
+- Hold two plates together at chest.
+- Press plates forward, squeezing chest.
+- Return to starting position.
+
+12. Landmine Press
+- Hold one end of barbell near chest.
+- Press bar upward at an angle.
+- Lower with control.
+
+13. Resistance Band Press
+- Anchor band behind you and hold handles.
+- Press arms forward like a bench press.
+- Return slowly under control.
+
+14. Dumbbell Pullover
+- Lie on bench holding dumbbell above chest.
+- Lower dumbbell behind head with slight bend in arms.
+- Pull back to start using chest and lats.
+
+15. Close-Grip Bench Press
+- Grip barbell with hands shoulder-width.
+- Lower bar to lower chest.
+- Press bar upward.
+
+16. Machine Chest Press
+- Sit with back on pad, hands on handles.
+- Press handles forward to extend arms.
+- Return slowly to start.
+
+17. Isometric Chest Squeeze
+- Press palms together in front of chest.
+- Squeeze as hard as possible.
+- Hold for time, then release.
+
+18. Stability Ball Push-Up
+- Place hands on ball in plank position.
+- Lower chest to ball with control.
+- Push back to start.
+
+19. Plate Pinch Press
+- Hold two plates together at chest.
+- Press plates forward and back slowly.
+- Keep chest engaged.
+
+20. Archer Push-Up
+- Perform wide push-up shifting to one side.
+- Lower chest toward one arm.
+- Alternate sides with each rep.
+
+Back:
+1. Pull-Up
+- Hang from bar with overhand grip.
+- Pull chest to bar.
+- Lower with control.
+
+2. Chin-Up
+- Hang with underhand grip.
+- Pull body up until chin is above bar.
+- Lower slowly back down.
+
+3. Lat Pulldown
+- Sit at machine, grip bar wide.
+- Pull bar to upper chest.
+- Return slowly upward.
+
+4. Barbell Row
+- Hold barbell with overhand grip.
+- Bend forward, pull bar to belly.
+- Lower back down with control.
+
+5. Dumbbell Row
+- Place one knee and hand on bench.
+- Pull dumbbell to side of waist.
+- Lower with control.
+
+6. T-Bar Row
+- Stand over bar, chest on pad if available.
+- Pull bar toward torso.
+- Lower slowly back down.
+
+7. Seated Cable Row
+- Sit with feet braced, grip handle.
+- Pull handle to waist.
+- Return slowly to stretch.
+
+8. Deadlift
+- Stand with feet under barbell.
+- Grip and lift by driving hips forward.
+- Lower bar under control.
+
+9. Rack Pull
+- Set barbell just below knees.
+- Pull bar to standing position.
+- Lower back to rack.
+
+10. Inverted Row
+- Lie under bar, grip wider than shoulders.
+- Pull chest to bar.
+- Lower to start.
+
+11. Resistance Band Row
+- Sit and loop band around feet.
+- Pull handles to waist.
+- Return slowly with tension.
+
+12. Bent-Over Rear Delt Fly
+- Hold dumbbells, hinge at hips.
+- Raise arms out to the side.
+- Lower slowly back down.
+
+13. Machine Row
+- Sit and grip handles.
+- Pull back to squeeze shoulder blades.
+- Return slowly to start.
+
+14. Straight Arm Pulldown
+- Stand, grip cable bar with straight arms.
+- Pull bar down to thighs.
+- Return slowly.
+
+15. Kroc Row
+- Use heavy dumbbell for high reps.
+- Pull to side of torso.
+- Control descent and repeat.
+
+16. Renegade Row
+- Start in plank with dumbbells.
+- Row one dumbbell while stabilizing.
+- Alternate sides.
+
+17. Meadows Row
+- Load one end of bar, stand sideways.
+- Row using a neutral grip.
+- Lower under control.
+
+18. TRX Row
+- Hold TRX handles, lean back.
+- Pull chest to hands.
+- Lower with control.
+
+19. Superman Hold
+- Lie on stomach, lift arms and legs.
+- Hold position squeezing glutes and back.
+- Lower and repeat.
+
+20. Prone Y Raise
+- Lie face down on bench.
+- Raise arms overhead in a “Y” shape.
+- Lower with control.
+
+Arms:
+1. Barbell Curl
+- Hold bar with underhand grip.
+- Curl bar to chest.
+- Lower slowly.
+
+2. Dumbbell Curl
+- Hold dumbbells at sides.
+- Curl both or alternate.
+- Lower with control.
+
+3. Preacher Curl
+- Sit with arms on pad.
+- Curl bar or dumbbell up.
+- Lower slowly.
+
+4. Hammer Curl
+- Hold dumbbells with neutral grip.
+- Curl to shoulder.
+- Lower back down.
+
+5. Concentration Curl
+- Sit and lean forward slightly.
+- Curl dumbbell from between knees.
+- Lower under control.
+
+6. Cable Curl
+- Stand facing cable machine.
+- Curl handle toward shoulders.
+- Return with tension.
+
+7. EZ-Bar Curl
+- Hold EZ-bar with angled grip.
+- Curl to shoulders.
+- Lower under control.
+
+8. Chin-Up (Biceps Focus)
+- Use underhand grip.
+- Pull body up using arms.
+- Lower slowly.
+
+9. Zottman Curl
+- Curl dumbbells up with palms up.
+- Rotate to palms down on the way down.
+- Repeat with control.
+
+10. Spider Curl
+- Lie chest-down on incline bench.
+- Curl dumbbells up.
+- Lower slowly.
+
+11. Tricep Pushdown
+- Use cable machine with bar.
+- Push bar down until arms are straight.
+- Return slowly up.
+
+12. Overhead Tricep Extension
+- Hold dumbbell overhead.
+- Lower behind head.
+- Extend back up.
+
+13. Skull Crusher
+- Lie on bench, hold EZ-bar.
+- Lower bar to forehead.
+- Extend arms up.
+
+14. Close-Grip Bench Press
+- Lie on bench with narrow grip.
+- Lower bar to chest.
+- Press up using triceps.
+
+15. Tricep Kickback
+- Bend at hips with dumbbells.
+- Extend arms behind you.
+- Return slowly.
+
+16. Dips
+- Use parallel bars, keep torso upright.
+- Lower and press up using arms.
+- Avoid swinging.
+
+17. Rope Overhead Extension
+- Use rope on cable machine.
+- Extend arms overhead.
+- Return behind head with control.
+
+18. One-Arm Cable Curl
+- Face cable machine with one hand on handle.
+- Curl to shoulder.
+- Lower under control.
+
+19. Cross-Body Hammer Curl
+- Hold dumbbells at sides.
+- Curl across body toward opposite shoulder.
+- Lower slowly.
+
+20. Reverse Curl
+- Hold bar with overhand grip.
+- Curl toward shoulders.
+- Lower with control.
+Legs:
+1. Barbell Back Squat
+- Stand with barbell on upper back, feet shoulder-width apart.
+- Lower your hips until thighs are parallel to floor.
+- Push through heels to return to standing.
+
+2. Front Squat
+- Hold barbell on front shoulders, elbows high.
+- Lower into a squat keeping chest upright.
+- Drive up through heels to stand.
+
+3. Romanian Deadlift
+- Hold barbell in front, knees slightly bent.
+- Hinge at hips, lowering bar down your legs.
+- Return to standing by squeezing glutes.
+
+4. Conventional Deadlift
+- Stand with feet under bar, grip just outside knees.
+- Lift bar by pushing through heels and extending hips.
+- Lower with control back to the ground.
+
+5. Sumo Deadlift
+- Take a wide stance with toes pointed out.
+- Grip bar inside your knees and lift by driving hips forward.
+- Lower the bar by hinging at hips.
+
+6. Leg Press
+- Sit on the machine with feet on platform.
+- Lower the platform until knees are 90 degrees.
+- Push through heels to extend legs.
+
+7. Hack Squat
+- Position shoulders under pads, back against the machine.
+- Lower body by bending knees.
+- Push back up to starting position.
+
+8. Bulgarian Split Squat
+- Stand with one foot on a bench behind you.
+- Lower front leg until thigh is parallel to floor.
+- Push through front heel to return up.
+
+9. Lunge
+- Step forward and lower back knee to the ground.
+- Keep front knee over ankle.
+- Push back to starting position.
+
+10. Step-Up
+- Step onto a bench with one leg.
+- Press through the foot to stand on the bench.
+- Step back down with control.
+
+11. Hip Thrust
+- Rest upper back on bench, barbell over hips.
+- Drive hips up until thighs are parallel to floor.
+- Lower hips back down with control.
+
+12. Calf Raise
+- Stand on edge of platform with heels hanging off.
+- Raise heels as high as possible.
+- Lower slowly to stretch calves.
+
+13. Leg Extension
+- Sit on machine with feet under pads.
+- Extend legs until fully straight.
+- Lower slowly back to start.
+
+14. Lying Hamstring Curl
+- Lie face down on the machine with ankles under pad.
+- Curl heels toward glutes.
+- Lower with control to starting position.
+
+15. Bodyweight Squat
+- Stand with feet shoulder-width apart.
+- Lower hips back and down.
+- Stand up by driving through heels.
+
+16. Jump Squat
+- Lower into squat position.
+- Jump explosively upward.
+- Land softly and repeat.
+
+17. Single-Leg Romanian Deadlift
+- Stand on one leg, hinge at hips with back straight.
+- Lower hands toward the floor.
+- Return to standing by squeezing glute.
+
+18. Prisoner Get-Up
+- Start on knees, hands behind head.
+- Step one foot up at a time into a squat, then stand.
+- Reverse steps to return to kneeling.
+
+19. Lateral Lunge
+- Step to the side and bend that knee.
+- Keep other leg straight and chest up.
+- Push back to center.
+
+20. Hyperextension
+- Position hips on pad, feet secured.
+- Lower torso forward while keeping back straight.
+- Raise torso back up using glutes and back.
+
+Abdominals:
+1. Plank
+- Start in forearm plank with body straight.
+- Keep abs tight and hold position.
+- Don’t let hips sag or rise.
+
+2. Side Plank
+- Lie on one side, elbow under shoulder.
+- Lift hips until body forms a line.
+- Hold while keeping core tight.
+
+3. Mountain Climbers
+- Start in high plank position.
+- Drive one knee toward chest, then switch legs.
+- Continue alternating quickly.
+
+4. Hollow Hold
+- Lie on back, lift legs and shoulders slightly.
+- Keep lower back pressed into floor.
+- Hold position with arms extended.
+
+5. Dead Bug
+- Lie on back, arms and legs up.
+- Lower opposite arm and leg slowly.
+- Return and repeat on other side.
+
+6. Bird Dog
+- Start on hands and knees.
+- Extend opposite arm and leg straight.
+- Return and switch sides.
+
+7. Ab Wheel Rollout
+- Kneel and grip ab wheel handles.
+- Roll forward while keeping core tight.
+- Pull back to starting position.
+
+8. Russian Twist
+- Sit with knees bent, feet off ground.
+- Twist torso side to side, touching ground.
+- Keep core braced and move with control.
+
+9. Leg Raise
+- Lie on back with legs extended.
+- Lift legs up toward ceiling.
+- Lower legs back down slowly.
+
+10. Bicycle Crunch
+- Lie on back with knees up.
+- Alternate bringing elbow to opposite knee.
+- Keep core engaged and controlled.
+
+11. Sit-Up
+- Lie on back with knees bent.
+- Curl torso up toward knees.
+- Lower back down with control.
+
+12. Jackknife (V-Up)
+- Lie on back with arms and legs extended.
+- Raise both toward each other into a V shape.
+- Lower slowly to starting position.
+
+13. Hollow Extension-to-Cannonball
+- Start in hollow hold, arms and legs extended.
+- Crunch into a tight ball.
+- Extend back out and repeat.
+
+14. Spiderman Plank
+- Start in plank position.
+- Bring knee toward same-side elbow.
+- Return and switch sides.
+
+15. Sphinx to Forearm Plank
+- Start on forearms and lift into plank.
+- Drop chest and forearms forward.
+- Push back up to forearm plank.
+
+16. TRX Plank to Pike
+- Start in TRX plank with feet in straps.
+- Lift hips up into a pike.
+- Lower slowly to plank.
+
+17. Side Plank with Leg Raise
+- Start in side plank.
+- Raise top leg upward slowly.
+- Lower and repeat while keeping balance.
+
+18. Around-the-Clock Plank
+- In high plank, reach one arm to different directions.
+- Keep hips and torso stable.
+- Repeat with opposite arm.
+
+19. Farmer’s Carry (Core Focus)
+- Hold one heavy dumbbell at your side.
+- Walk slowly, keeping torso upright.
+- Engage core to resist leaning.
+
+20. Butterfly Sit-Up
+- Sit with soles of feet together.
+- Lie back and sit up to touch feet.
+- Lower down and repeat.
