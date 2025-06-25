@@ -2,6 +2,13 @@
 Tuesday
 Wednesday
 Thursday
+-Dumbbell Bench Press
+&set0@10
+&set1@12
+-Jump Squat
+&set0@12
+-Leg Raise
+&set0@10
 Friday
 Saturday
 Sunday

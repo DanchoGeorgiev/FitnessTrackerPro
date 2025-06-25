@@ -12,7 +12,6 @@ class Program
          
          Start a new day
          View Current Day
-            Calories Consumed
             Today's Workout
               Start Workout
                 Your Previous Session In KGs
@@ -66,14 +65,150 @@ class Program
         Console.WriteLine(exercise);*/
 
         //Console.WriteLine(TrackerRun.GetExercise("Chest", "10"));
-        string[,] result = TrackerRun.CreateSetPrevSessMatrix("21.06.2025", "Bench Press");
+        //TrackerRun.CreateWorkout("Monday", "Pull-Up", "set1", "8");
+        //TrackerRun.AddRepsToExerciseToWeeklyRoutine("Monday", "Pull-Up", "set2", "8");
+        //TrackerRun.AddExerciseToWorkoutToWeeklyRoutine("Monday", "Deadlift");
+        /*string test = TrackerRun.GetExercisePosition("Chest Dip");
+        Console.WriteLine(test);
+        Dates.SetDate("Sunday", 22, 6, 2025);
+        Dates.StartNewDay();
+        
+       TrackerRun.SetExerciseInTodaysWorkout();
+       TrackerRun.AddKGsToExerciseToTodaysWorkout("Pull-Up", "set1", "200");
+       TrackerRun.DeleteAnExerciseFrowWeeklyRoutine("Sunday", "Deadlift");
+       List<string> test1 = TrackerRun.SearchForExerciseList("dip");
+       foreach (string s in test1)
+       {
+           Console.WriteLine(s);
+       }
+       Console.WriteLine(TrackerRun.CheckIfHadDonePreviousProgress("Tuesday"));*/
 
-        for (int i = 0; i < result.GetLength(0); i++)
+        bool isFirstTime = false; //Трябва да е false!!!
+        bool testMode = false;
+        if (ProgramRun.IsUser())
         {
-            Console.WriteLine($"Set: {result[i,0]}, Reps: {result[i,1]}, KG: {result[i,2]}");
+            Console.WriteLine("=====================================================================");
+            Console.WriteLine("Hello User, what is your name:");
+            string userName = Console.ReadLine();
+            string email = ProgramRun.ValidateEmail();
+            Console.WriteLine("PLease enter a password:");
+            string password = Console.ReadLine();
+            User user = new User(userName, email, password);
+            user.SaveUser();
+            isFirstTime = true;
         }
 
-        string test = TrackerRun.GetExercisePosition("Chest Dip");
-        Console.WriteLine(test);
+        if (!ProgramRun.IsUser())
+        {
+            if (!testMode)
+            {
+                if (ProgramRun.ValidateUser())
+                {
+                    if (isFirstTime)
+                    {
+                        ProgramRun.SetDate();
+                        ProgramRun.FirstWorkout();
+                        Dates.SaveDateFirstTime();
+                        isFirstTime = false;
+                    }
+
+                    if (!isFirstTime)
+                    {
+                        Dates.FromStringDate();
+                        bool hadTrained = false;
+                        while (true)
+                        {
+                            ProgramRun.MainMenu();
+                            int choice = ProgramRun.CheckNumberChoice();
+                            switch (choice)
+                            {
+                                case 1:
+                                    Dates.StartNewDay();
+                                    TrackerRun.SetExerciseInTodaysWorkout();
+                                    break;
+                                case 2:
+                                    ProgramRun.ViewCurrentDayMenu();
+                                    int choice2 = ProgramRun.CheckNumberChoice();
+                                    if (choice2 == 1)
+                                    {
+                                        TrackerRun.RunWorkout();
+                                    }
+
+                                    break;
+                                case 3:
+                                    ProgramRun.WeeklyPlanMenu();
+                                    int choice3 = ProgramRun.CheckNumberChoice();
+                                    switch (choice3)
+                                    {
+                                        case 1:
+                                            Console.WriteLine(
+                                                "Enter the day, you would like to see the training plan: ");
+                                            string day = ProgramRun.CheckIfValidDay();
+                                            if (TrackerRun.PrintWeeklyWorkout(day))
+                                            {
+                                                Console.WriteLine(
+                                                    "=====================================================================");
+                                                Console.WriteLine("Would you like to edit the training plan?");
+                                                Console.WriteLine("1.Yes");
+                                                Console.WriteLine("2.No");
+                                                int choice4 = ProgramRun.CheckNumberChoice();
+                                                switch (choice4)
+                                                {
+                                                    case 1:
+                                                        choice3 = 2;
+                                                        break;
+                                                    case 2:
+                                                        break;
+                                                }
+                                            }
+                                            else
+                                            {
+                                                Console.WriteLine(
+                                                    "=====================================================================");
+                                                Console.WriteLine("Day is empty");
+                                                Console.WriteLine("1.Add Exercises");
+                                                Console.WriteLine("2.Make it a rest day");
+                                                Console.WriteLine("3.Go Back");
+                                                int choice5 = ProgramRun.CheckNumberChoice();
+                                                switch (choice5)
+                                                {
+                                                    case 1:
+                                                        ProgramRun.AddExerciseToWorkout1(day);
+                                                        break;
+                                                    case 2:
+                                                        TrackerRun.MarkDayAsRestDay(day);
+                                                        break;
+                                                    case 3:
+                                                        break;
+                                                }
+                                            }
+
+                                            break;
+                                        case 2:
+                                            Console.WriteLine("Comming Soon ;)");
+                                            break;
+                                        case 3:
+                                            break;
+                                    }
+
+                                    break;
+                                case 5:
+                                    Dates.SaveDate();
+                                    break;
+                            }
+
+                            if (choice == 5)
+                            {
+                                break;
+                            }
+                        }
+                    }
+                }
+            }
+            else
+            {
+                TrackerRun.DeleteAllExercises("Monday");
+            }
+        }
     }
 }

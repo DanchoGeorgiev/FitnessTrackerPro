@@ -1,10 +1,1 @@
-Date
-- ExerciseName
-- ExerciseExplanation
-- PrevSessRepSet
-- Rep - RepKGs
-- NotesFromPrevSession
-- TodaysSessSet
-- Rep - RepKGs
-- NotesFromTodayssession
-
+﻿
